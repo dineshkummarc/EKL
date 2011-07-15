@@ -1,0 +1,10 @@
+{
+	"id": "com.ekl.input.textarea",
+	"version": "1.0.0",
+	"vendor": "EKL",
+	"type": "web",
+	"main": "index.html",
+	"title": "EKL TextArea",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
